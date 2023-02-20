@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate IOS developer currently living in Poland</h3>
 
-- 🔭 I’m currently working on [Calculator]([https://github.com/danmarchuk/To-Do-App](https://github.com/danmarchuk/Calculator))
+- 🔭 I’m currently working on [Calculator](https://github.com/danmarchuk/Calculator)
 
 - 🌱 I’m currently learning **Core Data and Realm**
 
