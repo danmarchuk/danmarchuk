@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Calculator](https://github.com/danmarchuk/Calculator)
 
-- 🌱 I’m currently learning **Core Data and Realm**
+- 🌱 I’m currently learning **Core ML and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
