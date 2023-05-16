@@ -33,7 +33,7 @@ A fun image classification app that can identify whether an image is of a hotdog
 A dynamic and interactive application that helps users keep track of things they need to do.
 
 <p align="center">
-<img src="https://github.com/danmarchuk/To-Do-App/raw/main/Images/1.png" width="230" title="To-Do-App">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/To-Do-App/raw/main/Images/2.png" width="230" title="To-Do-App">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/To-Do-App/raw/main/Images/3.gif" width="230" title="To-Do-App">
+<img src="https://github.com/danmarchuk/To-Do-App/raw/main/Images/1.png" width="230" title="To-Do-App">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/To-Do-App/raw/main/Images/2.png" width="230" title="To-Do-App">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/To-Do-App/blob/main/Images/demo.gif" width="230" title="To-Do-App">
 </p>
 
 
