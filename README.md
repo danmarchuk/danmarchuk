@@ -8,7 +8,7 @@ I'm a passionate and dedicated developer with a keen interest in building impact
 
 ### [WeatherBrick](https://github.com/danmarchuk/WeatherBrick)
 
-A mobile application built using Flutter that provides current weather data and a 5-day forecast for any location.
+An application that uses the location and weather API to represent weather conditions with a unique, fun, and intuitive interface: the weather brick on a rope.
 
 <p align="center">
 <img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/1.png" width="230" title="WeatherBrick">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/2.png" width="230" title="WeatherBrick">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/3.gif" width="230" title="WeatherBrick">
