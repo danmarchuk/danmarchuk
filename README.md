@@ -26,6 +26,17 @@ A fun image classification app that can identify whether an image is of a hotdog
 <img src="https://github.com/danmarchuk/SeeFood/blob/main/Images/1.jpg" width="230" title="SeeFood">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/SeeFood/blob/main/Images/2.jpg" width="230" title="SeeFood">
 </p>
 
+### [To Do App](https://github.com/danmarchuk/To-Do-App)
+<p align="left"> <a href="https://github.com/danmarchuk/To-Do-App"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+A dynamic and interactive application that helps users keep track of things they need to do.
+
+<p align="center">
+<img src="https://github.com/danmarchuk/To-Do-App/raw/main/Images/1.png" width="230" title="To-Do-App">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/To-Do-App/raw/main/Images/2.png" width="230" title="To-Do-App">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/To-Do-App/raw/main/Images/3.gif" width="230" title="To-Do-App">
+</p>
+
+
 ## Contact Info:
 
 - Email: danmarchuk9@gmail.com
