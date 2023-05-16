@@ -7,6 +7,8 @@ I'm a passionate and dedicated developer with a keen interest in building impact
 ## Projects
 
 ### [WeatherBrick](https://github.com/danmarchuk/WeatherBrick)
+<p align="left"> <a href="https://github.com/danmarchuk/WeatherBrick"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 
 An application that uses the location and weather API to represent weather conditions with a unique, fun, and intuitive interface: the weather brick on a rope.
 
@@ -15,6 +17,8 @@ An application that uses the location and weather API to represent weather condi
 </p>
 
 ### [SeeFood - The Hotdog Identifier](https://github.com/danmarchuk/SeeFood)
+<p align="left"> <a href="https://github.com/danmarchuk/SeeFood"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 
 A fun image classification app that can identify whether an image is of a hotdog or not, based on HBO's Silicon Valley.
 
