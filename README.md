@@ -1,15 +1,28 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate IOS developer currently living in Poland</h3>
+<a href="https://github.com/danmarchuk/Danyil-Marchuk-Resume.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:danmarchuk9@gmail.com"><img src="https://img.shields.io/badge/Email-Danyil-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/danyil-marchuk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danyil%20Marchuk-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-- 🔭 I’m currently working on [Calculator](https://github.com/danmarchuk/Calculator)
+# Hi there 👋, I'm Danyil Marchuk!
 
-- 🌱 I’m currently learning **Core ML and Machine Learning**
+I'm a passionate and dedicated developer with a keen interest in building impactful and useful applications. Check out some of my projects below!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danyil-marchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyil-marchuk" height="30" width="40" /></a>
+## Projects
+
+### [WeatherBrick](https://github.com/danmarchuk/WeatherBrick)
+
+A mobile application built using Flutter that provides current weather data and a 5-day forecast for any location.
+
+<p align="center">
+<img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/1.png" width="230" title="WeatherBrick">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/2.png" width="230" title="WeatherBrick">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/3.gif" width="230" title="WeatherBrick">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### [SeeFood - The Hotdog Identifier](https://github.com/danmarchuk/SeeFood)
+
+A fun image classification app that can identify whether an image is of a hotdog or not, based on HBO's Silicon Valley.
+
+<p align="center">
+<img src="https://github.com/danmarchuk/SeeFood/blob/main/Images/1.jpg" width="230" title="SeeFood">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/SeeFood/blob/main/Images/2.jpg" width="230" title="SeeFood">
+</p>
+
+## Contact Info:
+
+- Email: danmarchuk9@gmail.com
+- LinkedIn: [Danyil Marchuk](https://www.linkedin.com/in/danyil-marchuk/)
