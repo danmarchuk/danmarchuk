@@ -37,6 +37,17 @@ A dynamic and interactive application that helps users keep track of things they
 </p>
 
 
+### [Currency Converter](https://github.com/danmarchuk/CurencyConverter)
+<p align="left"> <a href="https://github.com/danmarchuk/CurencyConverter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+ An application that allows users to quickly assess the current exchange rate and perform currency conversions.
+
+<p align="center">
+<img src="https://github.com/danmarchuk/CurencyConverter/raw/main/Images/1.png" width="230" title="CurencyConverter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/CurencyConverter/raw/main/Images/2.png" width="230" title="To-Do-App">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/CurencyConverter/blob/main/Images/demo.gif" width="230" title="CurencyConverter">
+</p>
+
+
 ## Contact Info:
 
 - Email: danmarchuk9@gmail.com
