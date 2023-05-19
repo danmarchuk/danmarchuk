@@ -44,7 +44,7 @@ A dynamic and interactive application that helps users keep track of things they
  An application that allows users to quickly assess the current exchange rate and perform currency conversions.
 
 <p align="center">
-<img src="https://github.com/danmarchuk/CurencyConverter/raw/main/Images/1.png" width="230" title="CurencyConverter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/CurencyConverter/raw/main/Images/2.png" width="230" title="To-Do-App">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/CurencyConverter/blob/main/Images/demo.gif" width="230" title="CurencyConverter">
+<img src="https://github.com/danmarchuk/CurencyConverter/raw/dev/Images/1.png" width="230" title="CurencyConverter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/CurencyConverter/raw/dev/Images/2.png" width="230" title="CurrencyConverter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/CurencyConverter/raw/dev/Images/3.gif" width="230" title="CurencyConverter">
 </p>
 
 
