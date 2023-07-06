@@ -6,9 +6,10 @@ I'm a passionate and dedicated developer with a keen interest in building impact
 
 ## Projects
 
-Interesting Numbers
+### [Interesting Numbers](https://github.com/danmarchuk/InterestingNumbers)
 <p align="left"> <a href="https://github.com/danmarchuk/InterestingNumbers"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
+
 A mobile application that provides interesting facts about numbers, fetched from the Numbers API. You can find facts about a specific number, a random number, or even a range of numbers!
 
 <p align="center">
@@ -26,7 +27,9 @@ A fun image classification app that can identify whether an image is of a hotdog
 </p>
 
 ### [To Do App](https://github.com/danmarchuk/To-Do-App)
-<p align="left"> <a href="https://github.com/danmarchuk/To-Do-App"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+<p align="left"> <a href="https://github.com/danmarchuk/To-Do-App"> <img src="https://user-images.githubusercontent.com/33416429/928
+
+13512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 A dynamic and interactive application that helps users keep track of things they need to do.
