@@ -6,14 +6,13 @@ I'm a passionate and dedicated developer with a keen interest in building impact
 
 ## Projects
 
-### [WeatherBrick](https://github.com/danmarchuk/WeatherBrick)
-<p align="left"> <a href="https://github.com/danmarchuk/WeatherBrick"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+Interesting Numbers
+<p align="left"> <a href="https://github.com/danmarchuk/InterestingNumbers"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-
-An application that uses the location and weather API to represent weather conditions with a unique, fun, and intuitive interface: the weather brick on a rope.
+A mobile application that provides interesting facts about numbers, fetched from the Numbers API. You can find facts about a specific number, a random number, or even a range of numbers!
 
 <p align="center">
-<img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/1.png" width="230" title="WeatherBrick">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/2.png" width="230" title="WeatherBrick">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/WeatherBrick/blob/dev/Images/3.gif" width="230" title="WeatherBrick">
+<img src="https://github.com/danmarchuk/InterestingNumbers/blob/dev/Images/1.png" width="230" title="InterestingNumbers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/InterestingNumbers/blob/dev/Images/2.png" width="230" title="InterestingNumbers">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/InterestingNumbers/blob/dev/Images/3.gif" width="230" title="InterestingNumbers">
 </p>
 
 ### [SeeFood - The Hotdog Identifier](https://github.com/danmarchuk/SeeFood)
