@@ -1,4 +1,4 @@
-<a href="https://github.com/danmarchuk/Danyil-Marchuk-Resume.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/danyil-marchuk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danyil%20Marchuk-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/danyil-marchuk/" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/danyil-marchuk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danyil%20Marchuk-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 # Hi there 👋, I'm Danyil Marchuk!
 
