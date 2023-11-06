@@ -6,6 +6,16 @@ I'm a passionate and dedicated developer with a keen interest in building impact
 
 ## Projects
 
+### [Movies App](https://github.com/danmarchuk/Movies)
+<p align="left"> <a href="https://github.com/danmarchuk/Movies"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+A mobile application that allows users to discover, search, and view details about movies and is developed with a focus on creating a visually appealing and user-friendly interface.
+
+<p align="center">
+<img src="https://github.com/danmarchuk/Movies/raw/dev/Images/1.png" width="230" title="NewsFeed">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/Movies/raw/dev/Images/2.png" width="230" title="NewsFeed">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/Movies/raw/dev/Images/4.gif" width="230" title="NewsFeed">
+</p>
+
 ### [News Feed App](https://github.com/danmarchuk/NewsFeed)
 <p align="left"> <a href="https://github.com/danmarchuk/NewsFeed"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
