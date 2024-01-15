@@ -6,6 +6,16 @@ I'm a passionate and dedicated developer with a keen interest in building impact
 
 ## Projects
 
+### [Emoji Memory App (SwiftUI)](https://github.com/danmarchuk/Memorize)
+<p align="left"> <a href="https://github.com/danmarchuk/Memorize"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+A mobile application that allows users to discover, search, and view details about movies and is developed with a focus on creating a visually appealing and user-friendly interface.
+
+<p align="center">
+<img src="https://github.com/danmarchuk/Memorize/blob/main/Images/1.png" width="230" title="Memorize">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/Memorize/raw/main/Images/4.png" width="230" title="NewsFeed">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/danmarchuk/Memorize/raw/main/Images/3.gif" width="230" title="NewsFeed">
+</p>
+
 ### [Movies App (Using Texture)](https://github.com/danmarchuk/Movies)
 <p align="left"> <a href="https://github.com/danmarchuk/Movies"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
